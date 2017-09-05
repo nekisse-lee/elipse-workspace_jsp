@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+org.eclipse.wst.xsl.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+predarkestdark.xsltagAttributeName=\#CFBFAD | null | null | null | null | null
+predarkestdark.xsltagAttributeValue=\#ECE47E | null | null | null | null | null
+predarkestdark.xsltagBorder=\#CFBFAD | null | null | null | null | null
+predarkestdark.xsltagName=\#CFBFAD | null | null | null | null | null
+xsltagAttributeName=\#BED6FF | \#1E1E1E | null | null | null | null
+xsltagAttributeValue=\#FFC600 | \#1E1E1E | null | null | null | null
+xsltagBorder=\#79ABFF | \#1E1E1E | null | null | null | null
+xsltagName=\#BED6FF | \#1E1E1E | null | null | null | null

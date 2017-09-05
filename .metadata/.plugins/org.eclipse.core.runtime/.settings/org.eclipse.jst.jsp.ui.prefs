@@ -1,0 +1,21 @@
+SCRIPT_AREA_BORDER=\#D8D8D8 | \#1E1E1E | null | null | null | null
+commentBorder=\#C7DD0C | \#1E1E1E | null | null | null | null
+commentText=\#C7DD0C | \#1E1E1E | null | null | null | null
+eclipse.preferences.version=1
+jsp_content=\#D8D8D8 | \#1E1E1E | null | null | null | null
+jsp_content_assist_default_page_sort_order=org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000org.eclipse.jst.jsp.ui.proposalCategory.jsp\u0000org.eclipse.jst.jsp.ui.proposalCategory.jspJava\u0000org.eclipse.jst.jsp.ui.proposalCategory.jspTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000
+jsp_content_assist_own_page_sort_order=org.eclipse.jst.jsp.ui.proposalCategory.jspTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTemplates\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTemplates\u0000org.eclipse.wst.css.ui.proposalCategory.cssTemplates\u0000org.eclipse.wst.html.ui.proposalCategory.htmlTags\u0000org.eclipse.wst.xml.ui.proposalCategory.xmlTags\u0000org.eclipse.jst.jsp.ui.proposalCategory.jsp\u0000org.eclipse.jst.jsp.ui.proposalCategory.jspJava\u0000org.eclipse.wst.css.ui.proposalCategory.css\u0000
+newFileTemplateName=JSP
+org.eclipse.wst.sse.ui.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="true" context\="jsp_new" deleted\="false" description\="" enabled\="true" name\="JSP File(Html5)">&lt;%@ page language\="java" contentType\="text/html; charset\=${encoding}"\n    pageEncoding\="${encoding}"%&gt;\n\n&lt;\!DOCTYPE html&gt;\n&lt;html&gt;\n&lt;head&gt;\n&lt;meta charset\="${encoding}"&gt;\n&lt;title&gt;Insert title here&lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n${cursor}\n&lt;/body&gt;\n&lt;/html&gt;</template><template autoinsert\="true" context\="jsp_new" deleted\="false" description\="" enabled\="true" name\="JSP">&lt;%@ page language\="java" contentType\="text/html; charset\=EUC-KR"\n    pageEncoding\="EUC-KR"%&gt;\n&lt;\!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http\://www.w3.org/TR/html4/loose.dtd"&gt;\n&lt;html&gt;\n&lt;head&gt;\n&lt;meta http-equiv\="Content-Type" content\="text/html; charset\=${encoding}"&gt;\n&lt;title&gt;Insert title here&lt;/title&gt;\n&lt;/head&gt;\n&lt;body&gt;\n\n&lt;/body&gt;\n&lt;/html&gt;</template></templates>
+predarkestdark.SCRIPT_AREA_BORDER=\#F9FAF4 | null | null | null | null | null
+predarkestdark.commentBorder=\#FFFFFF | null | null | null | null | null
+predarkestdark.commentText=\#FFFFFF | null | null | null | null | null
+predarkestdark.jsp_content=\#CFBFAD | null | null | null | null | null
+predarkestdark.tagAttributeEquals=\#CFBFAD | null | null | null | null | null
+predarkestdark.tagAttributeName=\#FF007F | null | null | null | null | null
+predarkestdark.tagAttributeValue=\#ECE47E | null | null | null | null | null
+predarkestdark.tagBorder=\#A7EC21 | null | null | null | null | null
+tagAttributeEquals=\#D8D8D8 | \#1E1E1E | null | null | null | null
+tagAttributeName=\#FFFFFF | \#1E1E1E | false | null | null | null
+tagAttributeValue=\#FFC600 | \#1E1E1E | null | null | null | null
+tagBorder=\#FFFFFF | \#1E1E1E | null | null | null | null
