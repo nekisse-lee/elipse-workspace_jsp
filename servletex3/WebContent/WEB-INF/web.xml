@@ -13,8 +13,14 @@
 		<welcome-file>default.jsp</welcome-file>
 	</welcome-file-list>
 
+<!-- 
+<listener>
+	<listener-class>com.javalec.ex.ServletL</listener-class>
+</listener>
+ -->
 
-	<context-param>
+<!-- 모든 서블릿 초기화 사용
+ 	<context-param>
 		<param-name>id</param-name>
 		<param-value>abc</param-value>
 	</context-param>
@@ -22,7 +28,9 @@
 		<param-name>pw</param-name>
 		<param-value>123</param-value>
 	</context-param>
-  <!-- 
+   -->
+  
+  <!--      특정  서블릿 초기화 사용시
   <servlet>
   	<servlet-name>InitParam</servlet-name>
   	<servlet-class>com.javalec.ex.InitParam</servlet-class>
